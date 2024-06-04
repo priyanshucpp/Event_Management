@@ -1,0 +1,7 @@
+-user package displaying on login
+-no payment gateway
+-form after login with packages, requirements 
+-should be visible to admin
+-from scratch
+-galleries on home page
+home page, customer dashboard, login page, admin dashboard
